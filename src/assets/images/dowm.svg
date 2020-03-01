@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/下拉</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/下拉" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M12.7856173,5 L11.9755249,5 C11.7013221,5 11.4405606,5.13091603 11.2792648,5.35267176 L8,9.94335938 L4.56719971,5.35267176 C4.40590394,5.13091603 4.1478307,5 3.87093963,5 L3.21540151,5 C3.04066442,5 2.93851043,5.19770992 3.04066442,5.33931298 L7.82577231,11.9118321 C7.91179672,12.0293893 8.08653381,12.0293893 8.17255822,11.9118321 L12.9576661,5.33931298 C13.0625084,5.19770992 12.9603544,5 12.7856173,5 Z" id="形状结合" fill="#B3B3B3"></path>
+        </g>
+    </g>
+</svg>
